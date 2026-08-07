@@ -33,7 +33,9 @@ student-mgmt-mern/
 │   └── .env.example
 └── README.md
 ```
-
+---
+## Mock Ups
+ ![alt text](image.png)
 ---
 
 ## Prerequisites
