@@ -77,7 +77,7 @@ export default function App() {
     <div className="app-shell">
       <header className="header">
         <h1>
-          STUDENT<span>MGMT</span>//SYS
+          STUDENT<span>MGMT</span>SYS
         </h1>
         <nav className="nav-tabs">
           <button
@@ -90,7 +90,7 @@ export default function App() {
             className={tab === "add" ? "active" : ""}
             onClick={() => handleNavigate("add")}
           >
-            {editingStudent ? "Editing..." : "Add Student"}
+            {editingStudent ? "Editing" : "Add Student"}
           </button>
           <button
             className={tab === "list" ? "active" : ""}
