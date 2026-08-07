@@ -1,4 +1,4 @@
-# Student Management System — MERN Stack
+# ⚙️Student Management System — MERN Stack
 
 Week 2 Internship Project — Chand Web Technology Private Limited
 
